@@ -1,6 +1,9 @@
 # Wrangle_And_Analyze_Data
 ## by Jamal Taghavimehr
 
+### [Click here to be redirected to my GitHub profile](https://github.com/jamalmehr19)
+### [Click here to be redirected to the repository on GitHub](https://github.com/jamalmehr19/Wrangle_And_Analyze_Data)
+
 ## Introduction
 
 > In this project I wrangled and analyzed data from a Twitter account called WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage. The objective of this project was to clean the gathered data from twitter account and finally derive interesting conclusions from the results. Some questions that could be answered. Which dog breed has the highest rating? Which dog stage is the most frequent? What is the relationship betweet favourite and retweet counts vs dog rating?
